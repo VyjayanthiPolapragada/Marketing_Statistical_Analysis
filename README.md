@@ -13,7 +13,7 @@ The follwoing processes are involved when analysing data:
 
 1. Data Preparation
 2. Statistical Analysis
-3. Data Visulization
+3. Data Visualization
 
 
 
